@@ -177,15 +177,6 @@ GestionAbsences/
 └── runGUI.bat
 ```
 
-## Améliorations possibles
-
-- Application web pour un accès multi-plateforme
-- Rapports PDF ou Excel
-- Notifications automatiques
-- Migration vers Spring Boot
-- Export des statistiques
-- Authentification basée sur des mots de passe robustes et salés
-
 ## Auteur
 
 - Mehdi Braiek
